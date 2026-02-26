@@ -56,7 +56,7 @@
     "@types/ua-parser-js": "^0.7.36",
     "is-plain-object": "^5.0.0",
     "qrcode-generator": "^1.4.4",
-    "rollup": "^4.46.2",
+    "rollup": "^4.59.0",
     "rollup-plugin-dts": "^6.2.1",
     "solid-devtools": "^0.24.7",
     "solid-floating-ui": "^0.3.1",
