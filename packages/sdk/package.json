@@ -48,7 +48,7 @@
     "@rollup/plugin-typescript": "^12.1.4",
     "@types/node": "^24.2.0",
     "@vitest/coverage-istanbul": "3.2.4",
-    "rollup": "^4.46.2",
+    "rollup": "^4.59.0",
     "ts-loader": "^9.4.1",
     "ts-patch": "^3.3.0",
     "typescript-transform-paths": "^3.3.1",
